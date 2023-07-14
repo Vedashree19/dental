@@ -103,7 +103,7 @@ padding: 7rem 2rem;
 /*home design*/
 
 .home{
-    background: url(./home-bg.jpg) no-repeat;
+    background: url(home-bg.jpg) no-repeat;
     background-size:cover;
     background-position:center;
 }
